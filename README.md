@@ -25,7 +25,6 @@ O controlador foi desenvolvido em linguagem C utilizando as bibliotecas do Webot
   - Se um obstáculo for detectado à frente (sensor `so3`) com valor menor que 150, o robô avança e gira à direita.
   - Caso contrário, continua movendo-se para frente a velocidade constante.
 
----
 
 ##  Como Executar
 
@@ -53,7 +52,6 @@ O controlador foi desenvolvido em linguagem C utilizando as bibliotecas do Webot
 
 Discutir o tipo de licença do código aqui. Se for um exemplo educacional, mencione "para uso educacional" ou "sem licença específica". Caso contrário, especifique conforme aplicável (por exemplo, Apache-2.0).
 
----
 
 ## Possíveis Extensões Futuras
 
