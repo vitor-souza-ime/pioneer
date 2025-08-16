@@ -29,9 +29,9 @@ O controlador foi desenvolvido em linguagem C utilizando as bibliotecas do Webot
 ##  Como Executar
 
 1. Clone o repositório:
-   ```bash
+
    git clone https://github.com/vitor-souza-ime/pioneer.git
-````
+
 
 2. Abra o projeto no **Webots** e carregue o mundo contendo o robô **Pioneer 3-AT**.
 
